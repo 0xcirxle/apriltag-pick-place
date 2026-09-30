@@ -1,0 +1,5 @@
+numpy
+matplotlib
+opencv-python>=4.7
+pillow
+imageio-ffmpeg
